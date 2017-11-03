@@ -1,0 +1,1 @@
+Sentiment analysis using a dataset of Amazon reviews. Replication data is available at [Julian McAuley's site](http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/reviews_Toys_and_Games_5.json.gz).
